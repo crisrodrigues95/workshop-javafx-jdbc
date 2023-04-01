@@ -78,6 +78,8 @@ public class DepartmentListControler implements Initializable {
 		tableviewDepartment.setItems(obsList);
 		}
 	
+	
+	// Fazer uma tela ser modal
 	private void createDialogForm(String absolutName, Stage parentStage) {
 		
 		try {
