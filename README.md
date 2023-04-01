@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Sistema de Gestão de Departamentos e vendedores feito em Java e JavaFX
+Sistema de Gestão de Departamentos e vendedores feito em Java e JavaFX.
 Este projeto foi realizado no curso **Java COMPLETO 2023 Programação Orientada a Objetos +Projetos**, do professor Nélio Alves.
 
 
